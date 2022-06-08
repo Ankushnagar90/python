@@ -5,4 +5,4 @@ for i in range(0,num):
     mylist.append(n)
     if n%2==0:
         print(i)
-
+Print("some change for learn git ")
